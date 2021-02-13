@@ -1,11 +1,24 @@
 body {
-    font-family:"Valentina typeface"
+    font-family:cursive;
+}
+
+.store-font {
+    font-family:'Pinyon Script', cursive;  
+    color:#000060;  
+    font-size:100px;
+
 }
 
 header {
-    background-color:#a7FFFF;
+    background-color:#2e72bb;
+    height: 150px;
 }
 
+main {
+    height:600px;
+    text-align: center;
+}
 footer {
-    background-color:#00ffff;
+    background-color:#2e72bb;
+    height:200px
 }
